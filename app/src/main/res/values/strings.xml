@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Euro24Application</string>
+    <string name="home_title">All you need to know</string>
+    <string name="home_time">Tuesday, March 28, 2023</string>
+    <string name="home_text1">Germany will host EURO 2024, having been chosen to stage the 17th edition of the UEFA European Championship at a UEFA Executive Committee meeting in Nyon on 27 September 2018. Turkey was the only other nation that bid to hold UEFA EURO 2024. West Germany hosted the 1988 edition, but this will be the first time Germany has staged the UEFA European Championship since reunification. The 2006 FIFA World Cup also took place in the country.</string>
+    <string name="home_text2">"Host venues are as follows:                                Berlin: Olymiastadion Berlin (70,000)                                                         Cologne: Cologne Stadium (47,000)                                                                    Dortmund: BVB Stadion Dortmund (66,000)                                                      Dusseldorf: Dusseldorf Arena (47,000)                                                 Frankfurt: Frankfurt Arena (48,000)                                                Gelsenkierchen: Arena AufSchlake (50,000)                                               Hamburg: Volksparkstadion Hamburg (50,000)                                                       Leipzig: Leipzig Stadium (42,000)                                           Munich: Munich Football Arena (67,000)                                                Stuttgart: Stuttgart Arena (54,000)"</string>
+    <string name="home_text3">Berlin"'"s Olympiastadion will stage the final on Sunday 14 July 2024. Hosts Germany will feature in the opening game of UEFA EURO 2024 at the Munich Football Arena on Friday 14 June.</string>
+    <string name="home_text4">Teams have been placed into ten groups of five (including those containing the four UEFA Nations League Finals participants) or six. Sides play home and away in a round-robin format, with the group winners and runners-up advancing directly to the final tournament. The remaining three teams will be decided through the play-offs, featuring 12 teams selected based on their performance in the 2022/23 Nations League.</string>
+    <string name="dzeko">Edin Dzeko</string>
+    <string name="ahmedhodzic">Anel Ahmedhodzic</string>
+    <string name="hadziahmetovic">Amir Hadziahmetovic</string>
+    <string name="dedic">Amar Dedic</string>
+    <string name="tahirovic">Benjamin Tahirovic</string>
+    <string name="krunic">Rade Krunic</string>
+    <string name="hadzikadunic">Dennis Hadzikadunic</string>
+    <string name="stevanovic">Miroslav Stevanovic</string>
+    <string name="gojak">Amer Gojak</string>
+    <string name="bilbija">Nemanja Bilbija</string>
+    <string name="cimirot">Gojko Cimirot</string>
+    <string name="demirovic">Ermedin Demirovic</string>
+    <string name="duljevic">Haris Duljevic</string>
+    <string name="gazibegovic">Jusuf Gazibegovic</string>
+    <string name="kodro">Kenan Kodro</string>
+    <string name="kovacevic">Adnan Kovacevic</string>
+    <string name="mesanovic">Jasmin Mesanovic</string>
+    <string name="milicevic">Hrvoje Milicevic</string>
+    <string name="piric">Kenan Piric</string>
+    <string name="prcic">Sanjin Prcic</string>
+    <string name="prevljak">Smail Prevljak</string>
+    <string name="sanicanin">Sinisa Sanicanin</string>
+    <string name="sehic">Ibrahim Sehic</string>
+    <string name="vasilj">Nikola Vasilj</string>
+
+    <string name="bih">Bosnia and Herzegovina</string>
+    <string name="isl">Iceland</string>
+    <string name="svk">Slovakia</string>
+    <string name="por">Portugal</string>
+    <string name="lux">Luxembourg</string>
+    <string name="lie">Liechtenstein</string>
+</resources>
